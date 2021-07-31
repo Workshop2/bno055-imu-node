@@ -1,11 +1,12 @@
 ![npm version](https://img.shields.io/npm/v/bno055-imu-node.svg?style=for-the-badge&logo=npm&color=c41949)
 
 # BNO055 IMU + Node.js
+Fork of `bno055-imu-node` but with ability to restore calibration/offset data.
 
 ## Install
 
 ```
-npm install --save bno055-imu-node
+npm install --save @workshop2/bno055-imu-node
 ```
 
 ## Usage
